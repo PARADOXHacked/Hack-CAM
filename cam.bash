@@ -13,7 +13,7 @@ printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
 printf "\e[1;92m  HACK WEBCAM:/\e[0m\e   \e[0m\n"
-printf "\e[1;92m   Canal telegram: T.me/IrHack_PARADOX3\e[0m                                 \n"
+printf "\e[1;92m   lammer= T.me/IrHack_PARADOX3\e[0m                                 \n"
 
 printf "\n"
 
